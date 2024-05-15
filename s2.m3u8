@@ -20,6 +20,12 @@
 ####### PENYALAHGUNAAN PLAYLIST BUKAN TANGGUNG JAWAB ANUTV ##########
 
 ############################################## WELCOME TO ANUTV #########################################################
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Dick
+http://live.adultiptv.net/bigdick.m3u8
 
 
 #EXTINF:-1 group-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" tvg-logo="https://dl.dropboxusercontent.com/s/7ohihbruyonektc/IMG-20201116-WA0006.jpg?dl=0" group-title="Last Update 30-4-2024",Last Update 30-4-2024 22.30 WIB
