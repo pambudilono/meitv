@@ -4990,50 +4990,92 @@ http://iptvtree.net:8080/AmirBilali/76448035/157584
 http://iptvtree.net:8080/AmirBilali/76448035/264751
 
 ##################################################
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1, O-la-la
-http://31.148.48.15:80/O-la-la/index.m3u8?token=test
-#EXTINF:-1, Erox
-http://94.229.250.73:8008/play/a002
-#EXTINF:-1, Playboy
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1, Шелк
-http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-#EXTINF:-1, Penthouse Gold HD
-http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1, Русская ночь
-http://94.154.83.88:10000/russiannight
-#EXTINF:-1, Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1, Passion XXX
-http://62.176.77.22:9781/play/a00n
-#EXTINF:-1, Vivid Red
-http://62.176.77.22:9781/play/a00m
-#EXTINF:-1, Evil Angel
-http://62.176.77.22:9781/play/a00l 
-#EXTINF:-1, Hustler HD
-https://cdn-global.lolokoko.tv/HUSTLER.stream/chunks.m3u8 
-#EXTINF:-1, Private TV
-http://149.62.183.194:9293/play/a07t
-#EXTINF:-1, Babestation 24
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8 
-#EXTINF:-1, Brazzers TV Europe
-https://cdn-global.lolokoko.tv/BRAZZERS.stream/chunks.m3u8 
-#EXTINF:-1, Redlight HD
-https://cdn-global.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
-#EXTINF:-1, Шалун
-http://31.134.132.245:8080/shalun_hd/index.m3u8
-#EXTINF:-1, Babes TV
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
-#EXTINF:-1, Barely Legal 
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
-#EXTINF:-1, Red Lips 
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
-#EXTINF:-1, Blue Hustler 
-http://31.134.132.245:8080/hustler_hd/index.m3u8ips
-#EXTINF:-1, Dorcel TV
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
-#EXTINF:-1, Extasy 4K
-http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
+#EXTM3U
+#EXTINF:0,MyCamTV Teen Girls     
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:0,MyCamTV MILF
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:0,MyCamTV Young Girls
+http://live.mycamtv.com/young.m3u8
+#EXTINF:0,MyCamTV Mature
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:0,MyCamTV Arab Girls
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:0,MyCamTV Ebony Girls
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:0,MyCamTV Asian Girls
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:0,MyCamTV Brunette Girls
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:0,MyCamTV Latina Girls
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:0,MyCamTV White Girls
+http://live.mycamtv.com/white.m3u8
+#EXTINF:0,MyCamTV Blonde Girls
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:0,MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:0,MyCamTV Big Ass Girls
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:0,MyCamTV Girls Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:0,MyCamTV Big Tits Girls
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:0,MyCamTV Skinny Girls
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:0,MyCamTV Medium Girls
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:0,MyCamTV Blowjob
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+
+
