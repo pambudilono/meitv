@@ -5454,3 +5454,53 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
+
+//========================================================================
+//copy right by,@hometv menampilkan playlist >>> UK | SKY SPORTS
+//========================================================================
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Premier League
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9796
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Football
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9797
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Formula 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9798
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Main Event
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9800
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9801
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Arena
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9802
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9803
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Cricket
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9804
+
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Golf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9805
+
