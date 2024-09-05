@@ -5052,3 +5052,20 @@ https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9804
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9805
 
+
+===============UK SPORTS===========================
+
+
+#EXTINF:-1 tvg-id="sky.sports.mix.gb" tvg-name="UK075:Sky Sports Mix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK075SkySportsMix.png" group-title="UK Sports",UK075:Sky Sports Mix FHD
+http://mohdtv.com:8880/voby5162/39882366/2882
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK076:Sky Sports MainEvent HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK076SkySportsMainEvent.png" group-title="UK Sports",UK076:Sky Sports MainEvent HD
+http://mohdtv.com:8880/voby5162/39882366/2881
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK077:Sky Sports Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK077SkySportsAction.png" group-title="UK Sports",UK077:Sky Sports Action HD
+http://mohdtv.com:8880/voby5162/39882366/2880
+#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="UK078:Sky Sports Cricket HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK078SkySportsCricket.png" group-title="UK Sports",UK078:Sky Sports Cricket HD
+http://mohdtv.com:8880/voby5162/39882366/2879
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK079:Sky Sports Golf HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK079SkySportsGolf.png" group-title="UK Sports",UK079:Sky Sports Golf HD
+http://mohdtv.com:8880/voby5162/39882366/2878
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="UK Sports",UK080:Sky Sports PremierLeague HD
+http://mohdtv.com:8880/voby5162/39882366/2877
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK081:Sky Sports F1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK081SkySportsF1.png" group-title="UK Sports",UK081:Sky Sports F1 HD
