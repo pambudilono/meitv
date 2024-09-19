@@ -722,47 +722,47 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|R
 //copy right by,@hometv menampilkan playlist >>> UK | SKY SPORTS
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Premier League
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky Premier League
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9796
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Football
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9797
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Formula 1
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky Formula 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9798
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Main Event
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky Main Event
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9800
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Action
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky Action
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9801
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Arena
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky Arena
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9802
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky News
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9803
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Cricket
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky Cricket
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9804
 
-#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="🇬🇧 | SKY SPORTS UK",Sky Golf
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/sports/skysports_uk.png" group-title="UK Sports",Sky Golf
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9805
@@ -1814,8 +1814,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mp
 
 ############################  DENS TV #############################
 
-#EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="🌀 Dens TV", PLAYLIST INI GRATISS"
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="🌀 Dens TV",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
