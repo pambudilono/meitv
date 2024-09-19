@@ -1572,7 +1572,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="News",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg" group-title="News",One America News
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg" group-title="News",One AmeriCanada
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png group-title="News",USA Today
@@ -3626,35 +3626,35 @@ http://mohdtv.com:8880/voby5162/39882366/3069
 http://mohdtv.com:8880/voby5162/39882366/3068
 #EXTINF:-1 tvg-id="sportsnet.ca" tvg-name="CA002:Sportnet Ontario HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA002SPORTSNET-ONTARIO.png" group-title="CA Sports",CA002:Sportnet Ontario HD
 http://mohdtv.com:8880/voby5162/39882366/3067
-#EXTINF:-1 tvg-id="amc.canada.ca" tvg-name="CA003:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA003AMC.png" group-title="CA Movies",CA003:AMC HD
+#EXTINF:-1 tvg-id="amc.canada.ca" tvg-name="CA003:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA003AMC.png" group-title="Canada",CA003:AMC HD
 http://mohdtv.com:8880/voby5162/39882366/3066
 #EXTINF:-1 tvg-id="animal.planet.canada.ca" tvg-name="CA004:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA004ANIMAL-PLANET.png" group-title="CA Doc",CA004:Animal Planet HD
 http://mohdtv.com:8880/voby5162/39882366/3065
-#EXTINF:-1 tvg-id="" tvg-name="CA005:TMN1E (CRAVE TV 1)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA005TMN-1.png" group-title="CA Movies",CA005:TMN1E (CRAVE TV 1)
+#EXTINF:-1 tvg-id="" tvg-name="CA005:TMN1E (CRAVE TV 1)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA005TMN-1.png" group-title="Canada",CA005:TMN1E (CRAVE TV 1)
 http://mohdtv.com:8880/voby5162/39882366/3064
 #EXTINF:-1 tvg-id="cbet.windsor.ca" tvg-name="CA006:BET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA006BET.png" group-title="CA General",CA006:BET
 http://mohdtv.com:8880/voby5162/39882366/3063
-#EXTINF:-1 tvg-id="bnn.business.news.network.bloomberg.ca" tvg-name="CA007:BNN Bloomberg" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA007BNN.png" group-title="CA News",CA007:BNN Bloomberg
+#EXTINF:-1 tvg-id="bnn.business.news.network.bloomberg.ca" tvg-name="CA007:BNN Bloomberg" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA007BNN.png" group-title="Canada",CA007:BNN Bloomberg
 http://mohdtv.com:8880/voby5162/39882366/3062
 #EXTINF:-1 tvg-id="nfl.network.ca" tvg-name="CA008:NFL Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA008BRAVO.png" group-title="CA Sports",CA008:NFL Network HD
 http://mohdtv.com:8880/voby5162/39882366/3061
-#EXTINF:-1 tvg-id="cbc.edmonton.ca" tvg-name="CA009:CBC Edmonton HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA009CBC-EAST.png" group-title="CA News",CA009:CBC Edmonton HD
+#EXTINF:-1 tvg-id="cbc.edmonton.ca" tvg-name="CA009:CBC Edmonton HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA009CBC-EAST.png" group-title="Canada",CA009:CBC Edmonton HD
 http://mohdtv.com:8880/voby5162/39882366/3060
-#EXTINF:-1 tvg-id="cbc.news.network.ca" tvg-name="CA010:CBC News Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA010CBC-NEWS-NETWORK.png" group-title="CA News",CA010:CBC News Network HD
+#EXTINF:-1 tvg-id="cbc.news.network.ca" tvg-name="CA010:CBC News Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA010CBC-NEWS-NETWORK.png" group-title="Canada",CA010:CBC News Network HD
 http://mohdtv.com:8880/voby5162/39882366/3059
 #EXTINF:-1 tvg-id="chch.ca" tvg-name="CA011:CHCH HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA011CHCH.png" group-title="CA General",CA011:CHCH HD
 http://mohdtv.com:8880/voby5162/39882366/3058
 #EXTINF:-1 tvg-id="city.montreal.ca" tvg-name="CA012:City TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA012CITY-TV.png" group-title="CA General",CA012:City TV HD
 http://mohdtv.com:8880/voby5162/39882366/3057
-#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA013:CNN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA013CNN.png" group-title="CA News",CA013:CNN HD
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA013:CNN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA013CNN.png" group-title="Canada",CA013:CNN HD
 http://mohdtv.com:8880/voby5162/39882366/3056
-#EXTINF:-1 tvg-id="ctv.comedy.east.ca" tvg-name="CA014:CTV COMEDY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA014COMEDY.png" group-title="CA Movies",CA014:CTV COMEDY HD
+#EXTINF:-1 tvg-id="ctv.comedy.east.ca" tvg-name="CA014:CTV COMEDY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA014COMEDY.png" group-title="Canada",CA014:CTV COMEDY HD
 http://mohdtv.com:8880/voby5162/39882366/3055
 #EXTINF:-1 tvg-id="cottage.life.ca" tvg-name="CA015:Cottage Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA015COTTAGE-LIFE.png" group-title="CA General",CA015:Cottage Life
 http://mohdtv.com:8880/voby5162/39882366/3054
-#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA016:CP24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA016CP24.png" group-title="CA News",CA016:CP24 HD
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA016:CP24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA016CP24.png" group-title="Canada",CA016:CP24 HD
 http://mohdtv.com:8880/voby5162/39882366/3053
-#EXTINF:-1 tvg-id="cpac.english.ca" tvg-name="CA017:CPAC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA017CPAC.png" group-title="CA News",CA017:CPAC HD
+#EXTINF:-1 tvg-id="cpac.english.ca" tvg-name="CA017:CPAC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA017CPAC.png" group-title="Canada",CA017:CPAC HD
 http://mohdtv.com:8880/voby5162/39882366/3052
 #EXTINF:-1 tvg-id="" tvg-name="CA018:Bravo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA018ABCWest.png" group-title="CA General",CA018:Bravo
 http://mohdtv.com:8880/voby5162/39882366/3051
@@ -3662,15 +3662,15 @@ http://mohdtv.com:8880/voby5162/39882366/3051
 http://mohdtv.com:8880/voby5162/39882366/3050
 #EXTINF:-1 tvg-id="ctv.two.atlantic.ca" tvg-name="CA020:CTV 2 Atlantic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA020CTVAtlantic.png" group-title="CA General",CA020:CTV 2 Atlantic HD
 http://mohdtv.com:8880/voby5162/39882366/3049
-#EXTINF:-1 tvg-id="ctv.news.ca" tvg-name="CA021:CTV NEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA021CTV-NEWS.png" group-title="CA News",CA021:CTV NEWS HD
+#EXTINF:-1 tvg-id="ctv.news.ca" tvg-name="CA021:CTV NEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA021CTV-NEWS.png" group-title="Canada",CA021:CTV NEWS HD
 http://mohdtv.com:8880/voby5162/39882366/3048
 #EXTINF:-1 tvg-id="the.discovery.canada.ca" tvg-name="CA022:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA022DISCOVERY.png" group-title="CA Doc",CA022:Discovery HD
 http://mohdtv.com:8880/voby5162/39882366/3047
-#EXTINF:-1 tvg-id="disney.canada.east.ca" tvg-name="CA023:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA023DISNEY.png" group-title="CA Kids",CA023:Disney Channel HD
+#EXTINF:-1 tvg-id="disney.canada.east.ca" tvg-name="CA023:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA023DISNEY.png" group-title="Canada",CA023:Disney Channel HD
 http://mohdtv.com:8880/voby5162/39882366/3046
-#EXTINF:-1 tvg-id="disney.junior.canada.ca" tvg-name="CA024:Disney Junior HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA024DISNEY-JR.png" group-title="CA Kids",CA024:Disney Junior HD
+#EXTINF:-1 tvg-id="disney.junior.canada.ca" tvg-name="CA024:Disney Junior HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA024DISNEY-JR.png" group-title="Canada",CA024:Disney Junior HD
 http://mohdtv.com:8880/voby5162/39882366/3045
-#EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-name="CA025:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA025DISNEY-XD.png" group-title="CA Kids",CA025:Disney XD HD
+#EXTINF:-1 tvg-id="disney.xd.canada.ca" tvg-name="CA025:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA025DISNEY-XD.png" group-title="Canada",CA025:Disney XD HD
 http://mohdtv.com:8880/voby5162/39882366/3044
 #EXTINF:-1 tvg-id="" tvg-name="CA026:DIY Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA026DIY.png" group-title="CA Doc",CA026:DIY Network HD
 http://mohdtv.com:8880/voby5162/39882366/3043
@@ -3678,7 +3678,7 @@ http://mohdtv.com:8880/voby5162/39882366/3043
 http://mohdtv.com:8880/voby5162/39882366/3042
 #EXTINF:-1 tvg-id="e.entertainment.canada.ca" tvg-name="CA028:E! HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA028E!.png" group-title="CA General",CA028:E! HD
 http://mohdtv.com:8880/voby5162/39882366/3041
-#EXTINF:-1 tvg-id="family.canada.east.ca" tvg-name="CA029:Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA029FAMILY.png" group-title="CA Kids",CA029:Family HD
+#EXTINF:-1 tvg-id="family.canada.east.ca" tvg-name="CA029:Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA029FAMILY.png" group-title="Canada",CA029:Family HD
 http://mohdtv.com:8880/voby5162/39882366/3040
 #EXTINF:-1 tvg-id="food.network.ca" tvg-name="CA030:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA030FOOD-NETWORK.png" group-title="CA General",CA030:Food Network HD
 http://mohdtv.com:8880/voby5162/39882366/3039
@@ -3688,15 +3688,15 @@ http://mohdtv.com:8880/voby5162/39882366/3038
 http://mohdtv.com:8880/voby5162/39882366/3037
 #EXTINF:-1 tvg-id="fxx.canada.ca" tvg-name="CA033:FXX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA033FXX-HD.png" group-title="CA General",CA033:FXX HD
 http://mohdtv.com:8880/voby5162/39882366/3036
-#EXTINF:-1 tvg-id="global.durham.on.ca" tvg-name="CA034:Global Durham" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA034GLOBAL-EAST.png" group-title="CA News",CA034:Global Durham
+#EXTINF:-1 tvg-id="global.durham.on.ca" tvg-name="CA034:Global Durham" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA034GLOBAL-EAST.png" group-title="Canada",CA034:Global Durham
 http://mohdtv.com:8880/voby5162/39882366/3035
 #EXTINF:-1 tvg-id="hollywood.suite.00s.us" tvg-name="CA035:Hollywood Suite 00's" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA035" group-title="CA General",CA035:Hollywood Suite 00's
 http://mohdtv.com:8880/voby5162/39882366/3034
-#EXTINF:-1 tvg-id="" tvg-name="CA036:WGN 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA036GUSTO.png" group-title="CA News",CA036:WGN 9
+#EXTINF:-1 tvg-id="" tvg-name="CA036:WGN 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA036GUSTO.png" group-title="Canada",CA036:WGN 9
 http://mohdtv.com:8880/voby5162/39882366/3033
-#EXTINF:-1 tvg-id="hbo1.ca" tvg-name="CA037:HBO 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA037HBO-EAST.png" group-title="CA Movies",CA037:HBO 1
+#EXTINF:-1 tvg-id="hbo1.ca" tvg-name="CA037:HBO 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA037HBO-EAST.png" group-title="Canada",CA037:HBO 1
 http://mohdtv.com:8880/voby5162/39882366/3032
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA038:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA038HBO-WEST.png" group-title="CA Movies",CA038:HBO 2
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA038:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA038HBO-WEST.png" group-title="Canada",CA038:HBO 2
 http://mohdtv.com:8880/voby5162/39882366/3031
 #EXTINF:-1 tvg-id="hgtv.canada.ca" tvg-name="CA039:HGTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA039HGTV.png" group-title="CA General",CA039:HGTV HD
 http://mohdtv.com:8880/voby5162/39882366/3030
@@ -3706,17 +3706,17 @@ http://mohdtv.com:8880/voby5162/39882366/3029
 http://mohdtv.com:8880/voby5162/39882366/3028
 #EXTINF:-1 tvg-id="investigation.discovery.ca" tvg-name="CA042:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA042ID.png" group-title="CA Doc",CA042:Investigation Discovery HD
 http://mohdtv.com:8880/voby5162/39882366/3027
-#EXTINF:-1 tvg-id="pbs.boston.ma.ca" tvg-name="CA043:PBS Buffalo (WNED)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA043PBS.png" group-title="CA Kids",CA043:PBS Buffalo (WNED)
+#EXTINF:-1 tvg-id="pbs.boston.ma.ca" tvg-name="CA043:PBS Buffalo (WNED)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA043PBS.png" group-title="Canada",CA043:PBS Buffalo (WNED)
 http://mohdtv.com:8880/voby5162/39882366/3026
-#EXTINF:-1 tvg-id="lifetime.canada.ca" tvg-name="CA044:LIFETIME HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA044LIFETIME.png" group-title="CA Movies",CA044:LIFETIME HD
+#EXTINF:-1 tvg-id="lifetime.canada.ca" tvg-name="CA044:LIFETIME HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA044LIFETIME.png" group-title="Canada",CA044:LIFETIME HD
 http://mohdtv.com:8880/voby5162/39882366/3025
-#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="CA045:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA045" group-title="CA Movies",CA045:TCM
+#EXTINF:-1 tvg-id="mtv.2.canada.ca" tvg-name="CA045:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA045" group-title="Canada",CA045:TCM
 http://mohdtv.com:8880/voby5162/39882366/3024
-#EXTINF:-1 tvg-id="showcase.canada.ca" tvg-name="CA046:ShowCase HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA046ShowCaseCA.png" group-title="CA Movies",CA046:ShowCase HD
+#EXTINF:-1 tvg-id="showcase.canada.ca" tvg-name="CA046:ShowCase HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA046ShowCaseCA.png" group-title="Canada",CA046:ShowCase HD
 http://mohdtv.com:8880/voby5162/39882366/3023
 #EXTINF:-1 tvg-id="wpch.ca" tvg-name="CA047:BAYWATCH" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA047" group-title="CA General",CA047:BAYWATCH
 http://mohdtv.com:8880/voby5162/39882366/3022
-#EXTINF:-1 tvg-id="much.music.ca" tvg-name="CA048:Much HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA048MUCHMUSIC.png" group-title="CA Movies",CA048:Much HD
+#EXTINF:-1 tvg-id="much.music.ca" tvg-name="CA048:Much HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA048MUCHMUSIC.png" group-title="Canada",CA048:Much HD
 http://mohdtv.com:8880/voby5162/39882366/3021
 #EXTINF:-1 tvg-id="national.geographic.canada.ca" tvg-name="CA049:National Geographic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA049NAT-GEO.png" group-title="CA Doc",CA049:National Geographic HD
 http://mohdtv.com:8880/voby5162/39882366/3020
@@ -3748,7 +3748,7 @@ http://mohdtv.com:8880/voby5162/39882366/3008
 http://mohdtv.com:8880/voby5162/39882366/3007
 #EXTINF:-1 tvg-id="135.discovery.tlc.za" tvg-name="CA063:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA063TLC.png" group-title="CA General",CA063:TLC HD
 http://mohdtv.com:8880/voby5162/39882366/3006
-#EXTINF:-1 tvg-id="frissons.ca" tvg-name="CA064:LCN (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA064" group-title="CA News",CA064:LCN (FR)
+#EXTINF:-1 tvg-id="frissons.ca" tvg-name="CA064:LCN (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA064" group-title="Canada",CA064:LCN (FR)
 http://mohdtv.com:8880/voby5162/39882366/3005
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA065:TSN-1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title="CA Sports",CA065:TSN-1 HD
 http://mohdtv.com:8880/voby5162/39882366/3004
@@ -3768,7 +3768,7 @@ http://mohdtv.com:8880/voby5162/39882366/2998
 http://mohdtv.com:8880/voby5162/39882366/2997
 #EXTINF:-1 tvg-id="the.weather.network.ca" tvg-name="CA073:Weather channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA073WEATHER-CHANNEL.png" group-title="CA General",CA073:Weather channel HD
 http://mohdtv.com:8880/voby5162/39882366/2996
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA074:ICI RDI (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA074ICI RDI.png" group-title="CA News",CA074:ICI RDI (FR)
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA074:ICI RDI (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA074ICI RDI.png" group-title="Canada",CA074:ICI RDI (FR)
 http://mohdtv.com:8880/voby5162/39882366/2995
 #EXTINF:-1 tvg-id="yes.ca" tvg-name="CA075:YES HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA075YES-HD.png" group-title="CA General",CA075:YES HD
 http://mohdtv.com:8880/voby5162/39882366/2994
@@ -3778,9 +3778,9 @@ http://mohdtv.com:8880/voby5162/39882366/2993
 http://mohdtv.com:8880/voby5162/39882366/2992
 #EXTINF:-1 tvg-id="canal.vie.ca" tvg-name="CA078:HAUNT TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA078" group-title="CA General",CA078:HAUNT TV
 http://mohdtv.com:8880/voby5162/39882366/2991
-#EXTINF:-1 tvg-id="super.vault.ca" tvg-name="CA079:Super Channel Vault" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA079SUPERCHANNELVAULT.png" group-title="CA Movies",CA079:Super Channel Vault
+#EXTINF:-1 tvg-id="super.vault.ca" tvg-name="CA079:Super Channel Vault" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA079SUPERCHANNELVAULT.png" group-title="Canada",CA079:Super Channel Vault
 http://mohdtv.com:8880/voby5162/39882366/2990
-#EXTINF:-1 tvg-id="canal.d.ca" tvg-name="CA080:Canal D (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA080LCNFR.png" group-title="CA News",CA080:Canal D (FR)
+#EXTINF:-1 tvg-id="canal.d.ca" tvg-name="CA080:Canal D (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA080LCNFR.png" group-title="Canada",CA080:Canal D (FR)
 http://mohdtv.com:8880/voby5162/39882366/2989
 #EXTINF:-1 tvg-id="dejaview.ca" tvg-name="CA081:DEJAVIEW" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA081" group-title="CA General",CA081:DEJAVIEW
 http://mohdtv.com:8880/voby5162/39882366/2988
@@ -3802,49 +3802,49 @@ http://mohdtv.com:8880/voby5162/39882366/30226
 http://mohdtv.com:8880/voby5162/39882366/30225
 #EXTINF:-1 tvg-id="hollywood.suite.90s.ca" tvg-name="CA090:Hollywood Suite 90's" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA090:Hollywood Suite 90's
 http://mohdtv.com:8880/voby5162/39882366/30224
-#EXTINF:-1 tvg-id="bbc.earth.ca" tvg-name="CA091:BBC CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA091BBCCANADA.png" group-title="CA News",CA091:BBC CANADA
+#EXTINF:-1 tvg-id="bbc.earth.ca" tvg-name="CA091:BBC CANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA091BBCCANADA.png" group-title="Canada",CA091:BBC CANADA
 http://mohdtv.com:8880/voby5162/39882366/30223
-#EXTINF:-1 tvg-id="bbc.world.news.ca" tvg-name="CA092:BBC World News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA092BBCWORLDNEWS.png" group-title="CA News",CA092:BBC World News
+#EXTINF:-1 tvg-id="bbc.world.news.ca" tvg-name="CA092:BBC World News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA092BBCWORLDNEWS.png" group-title="Canada",CA092:BBC World News
 http://mohdtv.com:8880/voby5162/39882366/30222
-#EXTINF:-1 tvg-id="book.ca" tvg-name="CA093:Global BC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA News",CA093:Global BC
+#EXTINF:-1 tvg-id="book.ca" tvg-name="CA093:Global BC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="Canada",CA093:Global BC
 http://mohdtv.com:8880/voby5162/39882366/30221
 #EXTINF:-1 tvg-id="le.nouvelles.ca" tvg-name="CA094:IMPACT WRESTLING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA094" group-title="CA Sports",CA094:IMPACT WRESTLING
 http://mohdtv.com:8880/voby5162/39882366/30220
 #EXTINF:-1 tvg-id="savoir.madia.ca" tvg-name="CA095:CANAL Savoir" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA095CANALSAVOIR.png" group-title="CA Doc",CA095:CANAL Savoir
 http://mohdtv.com:8880/voby5162/39882366/30219
-#EXTINF:-1 tvg-id="cartoon.network.canada.ca" tvg-name="CA096:Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA096CARTOONNETWORK.png" group-title="CA Kids",CA096:Cartoon Network
+#EXTINF:-1 tvg-id="cartoon.network.canada.ca" tvg-name="CA096:Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA096CARTOONNETWORK.png" group-title="Canada",CA096:Cartoon Network
 http://mohdtv.com:8880/voby5162/39882366/30218
 #EXTINF:-1 tvg-id="casa.ca" tvg-name="CA097:CASA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA097CASA.png" group-title="CA General",CA097:CASA
 http://mohdtv.com:8880/voby5162/39882366/30217
-#EXTINF:-1 tvg-id="cbc.montreal.qc.ca" tvg-name="CA098:CBC Montreal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA098CBCMONTREAL.png" group-title="CA News",CA098:CBC Montreal
+#EXTINF:-1 tvg-id="cbc.montreal.qc.ca" tvg-name="CA098:CBC Montreal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA098CBCMONTREAL.png" group-title="Canada",CA098:CBC Montreal
 http://mohdtv.com:8880/voby5162/39882366/30216
-#EXTINF:-1 tvg-id="cbc.ottawa.on.ca" tvg-name="CA100:CBC OTTAWA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA100CBCOTTAWA.png" group-title="CA News",CA100:CBC OTTAWA HD
+#EXTINF:-1 tvg-id="cbc.ottawa.on.ca" tvg-name="CA100:CBC OTTAWA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA100CBCOTTAWA.png" group-title="Canada",CA100:CBC OTTAWA HD
 http://mohdtv.com:8880/voby5162/39882366/30214
-#EXTINF:-1 tvg-id="cbc.toronto.ca" tvg-name="CA101:CBC Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA101CBCTORONTO.png" group-title="CA News",CA101:CBC Toronto
+#EXTINF:-1 tvg-id="cbc.toronto.ca" tvg-name="CA101:CBC Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA101CBCTORONTO.png" group-title="Canada",CA101:CBC Toronto
 http://mohdtv.com:8880/voby5162/39882366/30213
-#EXTINF:-1 tvg-id="cbc.vancouver.ca" tvg-name="CA102:CBC Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA102CBCVANCOUVER.png" group-title="CA News",CA102:CBC Vancouver
+#EXTINF:-1 tvg-id="cbc.vancouver.ca" tvg-name="CA102:CBC Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA102CBCVANCOUVER.png" group-title="Canada",CA102:CBC Vancouver
 http://mohdtv.com:8880/voby5162/39882366/30212
 #EXTINF:-1 tvg-id="ctv.regina.ca" tvg-name="CA103:CTV Regina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA103:CTV Regina
 http://mohdtv.com:8880/voby5162/39882366/30211
 #EXTINF:-1 tvg-id="game.show.network.ca" tvg-name="CA104:Game Show Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA104:Game Show Network
 http://mohdtv.com:8880/voby5162/39882366/30210
-#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA105:ZESTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA105" group-title="CA Movies",CA105:ZESTE
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA105:ZESTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA105" group-title="Canada",CA105:ZESTE
 http://mohdtv.com:8880/voby5162/39882366/30209
 #EXTINF:-1 tvg-id="citytv.toronto.ca" tvg-name="CA106:City Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA106CITYTORONTO.png" group-title="CA General",CA106:City Toronto
 http://mohdtv.com:8880/voby5162/39882366/30208
-#EXTINF:-1 tvg-id="global.lethbridge.ca" tvg-name="CA107:Global Lethbridge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA107" group-title="CA News",CA107:Global Lethbridge
+#EXTINF:-1 tvg-id="global.lethbridge.ca" tvg-name="CA107:Global Lethbridge" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA107" group-title="Canada",CA107:Global Lethbridge
 http://mohdtv.com:8880/voby5162/39882366/30207
 #EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA108:CMT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA108CMTCANADA.png" group-title="CA General",CA108:CMT
 http://mohdtv.com:8880/voby5162/39882366/30206
-#EXTINF:-1 tvg-id="cnbc.canada.ca" tvg-name="CA109:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA109CNBC.png" group-title="CA News",CA109:CNBC
+#EXTINF:-1 tvg-id="cnbc.canada.ca" tvg-name="CA109:CNBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA109CNBC.png" group-title="Canada",CA109:CNBC
 http://mohdtv.com:8880/voby5162/39882366/30205
-#EXTINF:-1 tvg-id="cnn.international.north.america.ca" tvg-name="CA110:CNN International" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA110CNNINTERNATIONAL.png" group-title="CA News",CA110:CNN International
+#EXTINF:-1 tvg-id="cnn.international.north.america.ca" tvg-name="CA110:CNN International" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA110CNNINTERNATIONAL.png" group-title="Canada",CA110:CNN International
 http://mohdtv.com:8880/voby5162/39882366/30204
-#EXTINF:-1 tvg-id="" tvg-name="CA111:JOURNY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA111COMEDYGOLD.png" group-title="CA Movies",CA111:JOURNY
+#EXTINF:-1 tvg-id="" tvg-name="CA111:JOURNY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA111COMEDYGOLD.png" group-title="Canada",CA111:JOURNY
 http://mohdtv.com:8880/voby5162/39882366/30203
 #EXTINF:-1 tvg-id="the.cooking.ca" tvg-name="CA112:Cooking Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA112COOKINGCHANNEL.png" group-title="CA General",CA112:Cooking Channel
 http://mohdtv.com:8880/voby5162/39882366/30202
-#EXTINF:-1 tvg-id="ctv.montreal.qc.ca" tvg-name="CA113:LAW&CRIME" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA113" group-title="CA News",CA113:LAW&CRIME
+#EXTINF:-1 tvg-id="ctv.montreal.qc.ca" tvg-name="CA113:LAW&CRIME" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA113" group-title="Canada",CA113:LAW&CRIME
 http://mohdtv.com:8880/voby5162/39882366/30201
 #EXTINF:-1 tvg-id="cpac.english.ca" tvg-name="CA114:CPAC (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA114CPACFRENCH.png" group-title="CA General",CA114:CPAC (FR)
 http://mohdtv.com:8880/voby5162/39882366/30200
@@ -3852,37 +3852,37 @@ http://mohdtv.com:8880/voby5162/39882366/30200
 http://mohdtv.com:8880/voby5162/39882366/30199
 #EXTINF:-1 tvg-id="discovery.velocity.ca" tvg-name="CA116:Discovery Velocity" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA116" group-title="CA Doc",CA116:Discovery Velocity
 http://mohdtv.com:8880/voby5162/39882366/30198
-#EXTINF:-1 tvg-id="ctv.ottawa.ca" tvg-name="CA117:CTV Ottawa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA117CTVOTTAWA.png" group-title="CA News",CA117:CTV Ottawa
+#EXTINF:-1 tvg-id="ctv.ottawa.ca" tvg-name="CA117:CTV Ottawa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA117CTVOTTAWA.png" group-title="Canada",CA117:CTV Ottawa
 http://mohdtv.com:8880/voby5162/39882366/30197
-#EXTINF:-1 tvg-id="ctv.toronto.ca" tvg-name="CA118:CTV Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA118CTVTORONTO.png" group-title="CA News",CA118:CTV Toronto
+#EXTINF:-1 tvg-id="ctv.toronto.ca" tvg-name="CA118:CTV Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA118CTVTORONTO.png" group-title="Canada",CA118:CTV Toronto
 http://mohdtv.com:8880/voby5162/39882366/30196
-#EXTINF:-1 tvg-id="ctv.vancouver.british.columbia.ca" tvg-name="CA119:CTV Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA119CTVVANCOUVER.png" group-title="CA News",CA119:CTV Vancouver
+#EXTINF:-1 tvg-id="ctv.vancouver.british.columbia.ca" tvg-name="CA119:CTV Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA119CTVVANCOUVER.png" group-title="Canada",CA119:CTV Vancouver
 http://mohdtv.com:8880/voby5162/39882366/30195
-#EXTINF:-1 tvg-id="ctv.two.ottawa.chro.ca" tvg-name="CA120:CTV2 Ottawa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA120CTV2OTTAWA.png" group-title="CA News",CA120:CTV2 Ottawa
+#EXTINF:-1 tvg-id="ctv.two.ottawa.chro.ca" tvg-name="CA120:CTV2 Ottawa" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA120CTV2OTTAWA.png" group-title="Canada",CA120:CTV2 Ottawa
 http://mohdtv.com:8880/voby5162/39882366/30194
 #EXTINF:-1 tvg-id="" tvg-name="CA121:Isuma TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA121:Isuma TV
 http://mohdtv.com:8880/voby5162/39882366/30193
-#EXTINF:-1 tvg-id="global.edmonton.ca" tvg-name="CA122:Global Edmonton" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA122" group-title="CA News",CA122:Global Edmonton
+#EXTINF:-1 tvg-id="global.edmonton.ca" tvg-name="CA122:Global Edmonton" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA122" group-title="Canada",CA122:Global Edmonton
 http://mohdtv.com:8880/voby5162/39882366/30192
-#EXTINF:-1 tvg-id="hollywood.suite.70s.ca" tvg-name="CA123:W Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA123" group-title="CA Movies",CA123:W Network
+#EXTINF:-1 tvg-id="hollywood.suite.70s.ca" tvg-name="CA123:W Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA123" group-title="Canada",CA123:W Network
 http://mohdtv.com:8880/voby5162/39882366/30191
 #EXTINF:-1 tvg-id="discovery.science.ca" tvg-name="CA124:Discovery Science HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA124DISCOVERYSCIENCECANADA.png" group-title="CA Doc",CA124:Discovery Science HD
 http://mohdtv.com:8880/voby5162/39882366/30190
-#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA125:MovieTime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA125MovieTime.png" group-title="CA Movies",CA125:MovieTime
+#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA125:MovieTime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA125MovieTime.png" group-title="Canada",CA125:MovieTime
 http://mohdtv.com:8880/voby5162/39882366/30189
 #EXTINF:-1 tvg-id="super.sports.pak.3.ca" tvg-name="CA126:Super Sports CH 477" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA126" group-title="CA Sports",CA126:Super Sports CH 477
 http://mohdtv.com:8880/voby5162/39882366/30188
-#EXTINF:-1 tvg-id="ctv.sci.fi.ca" tvg-name="CA128:CTV Sci-Fi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA128" group-title="CA Movies",CA128:CTV Sci-Fi
+#EXTINF:-1 tvg-id="ctv.sci.fi.ca" tvg-name="CA128:CTV Sci-Fi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA128" group-title="Canada",CA128:CTV Sci-Fi
 http://mohdtv.com:8880/voby5162/39882366/30186
 #EXTINF:-1 tvg-id="evasion.ca" tvg-name="CA129:Evasion (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA129EVASION.png" group-title="CA General",CA129:Evasion (FR)
 http://mohdtv.com:8880/voby5162/39882366/30185
-#EXTINF:-1 tvg-id="family.chrgd.ca" tvg-name="CA130:Family CHRGD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA130FAMILYCHRGD.png" group-title="CA Kids",CA130:Family CHRGD
+#EXTINF:-1 tvg-id="family.chrgd.ca" tvg-name="CA130:Family CHRGD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA130FAMILYCHRGD.png" group-title="Canada",CA130:Family CHRGD
 http://mohdtv.com:8880/voby5162/39882366/30184
-#EXTINF:-1 tvg-id="family.jr.ca" tvg-name="CA131:Family Jr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA131FAMILYJR.png" group-title="CA Kids",CA131:Family Jr
+#EXTINF:-1 tvg-id="family.jr.ca" tvg-name="CA131:Family Jr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA131FAMILYJR.png" group-title="Canada",CA131:Family Jr
 http://mohdtv.com:8880/voby5162/39882366/30183
 #EXTINF:-1 tvg-id="fight.network.canada.ca" tvg-name="CA132:Fight Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA132FIGHTNETWORK.png" group-title="CA Sports",CA132:Fight Network HD
 http://mohdtv.com:8880/voby5162/39882366/30182
-#EXTINF:-1 tvg-id="fox.news.ca" tvg-name="CA133:Fox News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA133FOXNEWS.png" group-title="CA News",CA133:Fox News HD
+#EXTINF:-1 tvg-id="fox.news.ca" tvg-name="CA133:Fox News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA133FOXNEWS.png" group-title="Canada",CA133:Fox News HD
 http://mohdtv.com:8880/voby5162/39882366/30181
 #EXTINF:-1 tvg-id="fox.sports.racing.ca" tvg-name="CA134:FOX Sports Racing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA134FOXWEST.png" group-title="CA Sports",CA134:FOX Sports Racing
 http://mohdtv.com:8880/voby5162/39882366/30180
@@ -3890,23 +3890,23 @@ http://mohdtv.com:8880/voby5162/39882366/30180
 http://mohdtv.com:8880/voby5162/39882366/30179
 #EXTINF:-1 tvg-id="bein.sport.canada.ca" tvg-name="CA136:Bein Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA136BeinSports.png" group-title="CA Sports",CA136:Bein Sports HD
 http://mohdtv.com:8880/voby5162/39882366/30178
-#EXTINF:-1 tvg-id="global.toronto.ca" tvg-name="CA137:Global Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA137GLOBALTORONTO.png" group-title="CA News",CA137:Global Toronto
+#EXTINF:-1 tvg-id="global.toronto.ca" tvg-name="CA137:Global Toronto" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA137GLOBALTORONTO.png" group-title="Canada",CA137:Global Toronto
 http://mohdtv.com:8880/voby5162/39882366/30177
-#EXTINF:-1 tvg-id="global.calgary.ab.dv.ca" tvg-name="CA138:Global Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA138GLOBALVANCOUVER.png" group-title="CA News",CA138:Global Vancouver
+#EXTINF:-1 tvg-id="global.calgary.ab.dv.ca" tvg-name="CA138:Global Vancouver" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA138GLOBALVANCOUVER.png" group-title="Canada",CA138:Global Vancouver
 http://mohdtv.com:8880/voby5162/39882366/30176
 #EXTINF:-1 tvg-id="golf.canada.ca" tvg-name="CA139:GOLF HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA139GOLF.png" group-title="CA Sports",CA139:GOLF HD
 http://mohdtv.com:8880/voby5162/39882366/30175
 #EXTINF:-1 tvg-id="history2.canada.ca" tvg-name="CA140:MIRACLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA140H2CANADA.png" group-title="CA Doc",CA140:MIRACLE
 http://mohdtv.com:8880/voby5162/39882366/30174
-#EXTINF:-1 tvg-id="adult.swim.east.ca" tvg-name="CA141:Adult Swim HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA Kids",CA141:Adult Swim HD
+#EXTINF:-1 tvg-id="adult.swim.east.ca" tvg-name="CA141:Adult Swim HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="Canada",CA141:Adult Swim HD
 http://mohdtv.com:8880/voby5162/39882366/30173
-#EXTINF:-1 tvg-id="" tvg-name="CA142:MOONBUG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA142HBO2.png" group-title="CA Kids",CA142:MOONBUG
+#EXTINF:-1 tvg-id="" tvg-name="CA142:MOONBUG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA142HBO2.png" group-title="Canada",CA142:MOONBUG
 http://mohdtv.com:8880/voby5162/39882366/30172
 #EXTINF:-1 tvg-id="love.nature.ca" tvg-name="CA143:Love Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA143HISTORIO.png" group-title="CA Doc",CA143:Love Nature
 http://mohdtv.com:8880/voby5162/39882366/30171
 #EXTINF:-1 tvg-id="ici.montreal.qc.ca" tvg-name="CA144:ICI Tele Montreal (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA144" group-title="CA General",CA144:ICI Tele Montreal (FR)
 http://mohdtv.com:8880/voby5162/39882366/30170
-#EXTINF:-1 tvg-id="ctv.two.vancouver.island.civi.ca" tvg-name="CA145:CTV2 Barrie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA145ICIVANCOUVER.png" group-title="CA News",CA145:CTV2 Barrie
+#EXTINF:-1 tvg-id="ctv.two.vancouver.island.civi.ca" tvg-name="CA145:CTV2 Barrie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA145ICIVANCOUVER.png" group-title="Canada",CA145:CTV2 Barrie
 http://mohdtv.com:8880/voby5162/39882366/30169
 #EXTINF:-1 tvg-id="cifci.tr" tvg-name="CA146:IFC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA146ICIRDI.png" group-title="CA General",CA146:IFC
 http://mohdtv.com:8880/voby5162/39882366/30168
@@ -3920,7 +3920,7 @@ http://mohdtv.com:8880/voby5162/39882366/30164
 http://mohdtv.com:8880/voby5162/39882366/30163
 #EXTINF:-1 tvg-id="the.miracle.in.ca" tvg-name="CA152:EVASION (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA152MIRACLE.png" group-title="CA General",CA152:EVASION (FR)
 http://mohdtv.com:8880/voby5162/39882366/30162
-#EXTINF:-1 tvg-id="ctv.drama.ca" tvg-name="CA153:CTV Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA Movies",CA153:CTV Drama
+#EXTINF:-1 tvg-id="ctv.drama.ca" tvg-name="CA153:CTV Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="Canada",CA153:CTV Drama
 http://mohdtv.com:8880/voby5162/39882366/30161
 #EXTINF:-1 tvg-id="addik.ca" tvg-name="CA154:ADDIK TV (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/" group-title="CA General",CA154:ADDIK TV (FR)
 http://mohdtv.com:8880/voby5162/39882366/30160
@@ -3946,13 +3946,13 @@ http://mohdtv.com:8880/voby5162/39882366/30148
 http://mohdtv.com:8880/voby5162/39882366/30147
 #EXTINF:-1 tvg-id="noovo.ca" tvg-name="CA168:CTV2 London" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA168THEWEATHERNETWORK.png" group-title="CA General",CA168:CTV2 London
 http://mohdtv.com:8880/voby5162/39882366/30146
-#EXTINF:-1 tvg-id="crave2.east.ca" tvg-name="CA169:TMN2E (CRAVE TV 2)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA169CRAVE2/TMN2.png" group-title="CA Movies",CA169:TMN2E (CRAVE TV 2)
+#EXTINF:-1 tvg-id="crave2.east.ca" tvg-name="CA169:TMN2E (CRAVE TV 2)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA169CRAVE2/TMN2.png" group-title="Canada",CA169:TMN2E (CRAVE TV 2)
 http://mohdtv.com:8880/voby5162/39882366/30145
-#EXTINF:-1 tvg-id="crave3.east.ca" tvg-name="CA170:TMN3E (CRAVE TV 3)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA170CRAVE3/TMN3.png" group-title="CA Movies",CA170:TMN3E (CRAVE TV 3)
+#EXTINF:-1 tvg-id="crave3.east.ca" tvg-name="CA170:TMN3E (CRAVE TV 3)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA170CRAVE3/TMN3.png" group-title="Canada",CA170:TMN3E (CRAVE TV 3)
 http://mohdtv.com:8880/voby5162/39882366/30144
-#EXTINF:-1 tvg-id="" tvg-name="CA171:TMN4E (CRAVE TV 4)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA171CRAVE4/TMN4.png" group-title="CA Movies",CA171:TMN4E (CRAVE TV 4)
+#EXTINF:-1 tvg-id="" tvg-name="CA171:TMN4E (CRAVE TV 4)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA171CRAVE4/TMN4.png" group-title="Canada",CA171:TMN4E (CRAVE TV 4)
 http://mohdtv.com:8880/voby5162/39882366/30143
-#EXTINF:-1 tvg-id="" tvg-name="CA172:TV5 QUEBEC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA172TV5QUEBEC.png" group-title="CA News",CA172:TV5 QUEBEC HD
+#EXTINF:-1 tvg-id="" tvg-name="CA172:TV5 QUEBEC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA172TV5QUEBEC.png" group-title="Canada",CA172:TV5 QUEBEC HD
 http://mohdtv.com:8880/voby5162/39882366/30142
 #EXTINF:-1 tvg-id="mtv.india.ca" tvg-name="CA173:MTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA173" group-title="CA General",CA173:MTV
 http://mohdtv.com:8880/voby5162/39882366/30141
@@ -3970,35 +3970,35 @@ http://mohdtv.com:8880/voby5162/39882366/30136
 http://mohdtv.com:8880/voby5162/39882366/30135
 #EXTINF:-1 tvg-id="super.sports.pak.5.ca" tvg-name="CA180:Super Sports CH 476" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA180" group-title="CA Sports",CA180:Super Sports CH 476
 http://mohdtv.com:8880/voby5162/39882366/30134
-#EXTINF:-1 tvg-id="global.maritimes.ca" tvg-name="CA181:Global Maritimes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA181GLOBAL.png" group-title="CA News",CA181:Global Maritimes
+#EXTINF:-1 tvg-id="global.maritimes.ca" tvg-name="CA181:Global Maritimes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA181GLOBAL.png" group-title="Canada",CA181:Global Maritimes
 http://mohdtv.com:8880/voby5162/39882366/30133
 #EXTINF:-1 tvg-id="rds.2.ca" tvg-name="CA182:RDS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA182RDS2.png" group-title="CA Sports",CA182:RDS 2
 http://mohdtv.com:8880/voby5162/39882366/30132
-#EXTINF:-1 tvg-id="ewtn.canada.ca" tvg-name="CA183:EWTN (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA183" group-title="CA News",CA183:EWTN (FR)
+#EXTINF:-1 tvg-id="ewtn.canada.ca" tvg-name="CA183:EWTN (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA183" group-title="Canada",CA183:EWTN (FR)
 http://mohdtv.com:8880/voby5162/39882366/30131
 #EXTINF:-1 tvg-id="capital.networks.shopping.2.ca" tvg-name="CA185:The Shopping Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA185SHOPPING.png" group-title="CA General",CA185:The Shopping Channel
 http://mohdtv.com:8880/voby5162/39882366/30129
-#EXTINF:-1 tvg-id="silver.screen.classics.ca" tvg-name="CA186:Silver Screen Classics" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA186SILVERSCREENCLASSICS.png" group-title="CA Movies",CA186:Silver Screen Classics
+#EXTINF:-1 tvg-id="silver.screen.classics.ca" tvg-name="CA186:Silver Screen Classics" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA186SILVERSCREENCLASSICS.png" group-title="Canada",CA186:Silver Screen Classics
 http://mohdtv.com:8880/voby5162/39882366/30128
-#EXTINF:-1 tvg-id="paramount.network.canada.ca" tvg-name="CA187:Paramount Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA187SPIKETV/PARAMOUNTCANADA.png" group-title="CA Movies",CA187:Paramount Network HD
+#EXTINF:-1 tvg-id="paramount.network.canada.ca" tvg-name="CA187:Paramount Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA187SPIKETV/PARAMOUNTCANADA.png" group-title="Canada",CA187:Paramount Network HD
 http://mohdtv.com:8880/voby5162/39882366/30127
 #EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA188:Sportnet Pacific HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA188SPORTSNETPACIFIC.png" group-title="CA Sports",CA188:Sportnet Pacific HD
 http://mohdtv.com:8880/voby5162/39882366/30126
-#EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-name="CA189:SUPER ECRAN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA189SUPERECRAN1.png" group-title="CA Movies",CA189:SUPER ECRAN 1
+#EXTINF:-1 tvg-id="super.ecran.1.ca" tvg-name="CA189:SUPER ECRAN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA189SUPERECRAN1.png" group-title="Canada",CA189:SUPER ECRAN 1
 http://mohdtv.com:8880/voby5162/39882366/30125
-#EXTINF:-1 tvg-id="super.ecran.2.ca" tvg-name="CA190:SUPER ECRAN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA190SUPERECRAN2.png" group-title="CA Movies",CA190:SUPER ECRAN 2
+#EXTINF:-1 tvg-id="super.ecran.2.ca" tvg-name="CA190:SUPER ECRAN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA190SUPERECRAN2.png" group-title="Canada",CA190:SUPER ECRAN 2
 http://mohdtv.com:8880/voby5162/39882366/30124
-#EXTINF:-1 tvg-id="super.ecran.3.ca" tvg-name="CA191:SUPER ECRAN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA191SUPERECRAN3.png" group-title="CA Movies",CA191:SUPER ECRAN 3
+#EXTINF:-1 tvg-id="super.ecran.3.ca" tvg-name="CA191:SUPER ECRAN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA191SUPERECRAN3.png" group-title="Canada",CA191:SUPER ECRAN 3
 http://mohdtv.com:8880/voby5162/39882366/30123
-#EXTINF:-1 tvg-id="super.ecran.4.ca" tvg-name="CA192:SUPER ECRAN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA192SUPERECRAN4.png" group-title="CA Movies",CA192:SUPER ECRAN 4
+#EXTINF:-1 tvg-id="super.ecran.4.ca" tvg-name="CA192:SUPER ECRAN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA192SUPERECRAN4.png" group-title="Canada",CA192:SUPER ECRAN 4
 http://mohdtv.com:8880/voby5162/39882366/30122
-#EXTINF:-1 tvg-id="turner.classic.movies.canada.ca" tvg-name="CA194:ZESTE (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA194TELELATINO.png" group-title="CA Movies",CA194:ZESTE (FR)
+#EXTINF:-1 tvg-id="turner.classic.movies.canada.ca" tvg-name="CA194:ZESTE (FR)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA194TELELATINO.png" group-title="Canada",CA194:ZESTE (FR)
 http://mohdtv.com:8880/voby5162/39882366/30120
 #EXTINF:-1 tvg-id="knowledge.network.ca" tvg-name="CA195:CBC Yellowknife NT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA195" group-title="CA General",CA195:CBC Yellowknife NT
 http://mohdtv.com:8880/voby5162/39882366/30119
-#EXTINF:-1 tvg-id="ckws.ctv.global.kingston.ca" tvg-name="CA196:Global Kingston" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA196" group-title="CA News",CA196:Global Kingston
+#EXTINF:-1 tvg-id="ckws.ctv.global.kingston.ca" tvg-name="CA196:Global Kingston" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA196" group-title="Canada",CA196:Global Kingston
 http://mohdtv.com:8880/voby5162/39882366/30118
-#EXTINF:-1 tvg-id="teletoon.east.ca" tvg-name="CA197:Teletoon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA197TELETOONFRENCH.png" group-title="CA Kids",CA197:Teletoon
+#EXTINF:-1 tvg-id="teletoon.east.ca" tvg-name="CA197:Teletoon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA197TELETOONFRENCH.png" group-title="Canada",CA197:Teletoon
 http://mohdtv.com:8880/voby5162/39882366/30117
 #EXTINF:-1 tvg-id="cbc.regina.ca" tvg-name="CA198:CBC Regina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA198TELEMAGINO.png" group-title="CA General",CA198:CBC Regina
 http://mohdtv.com:8880/voby5162/39882366/30116
@@ -4014,43 +4014,43 @@ http://mohdtv.com:8880/voby5162/39882366/30112
 http://mohdtv.com:8880/voby5162/39882366/30111
 #EXTINF:-1 tvg-id="ctv.halifax.ca" tvg-name="CA204:CBC Halifax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA204CTVHALIFAX.png" group-title="CA General",CA204:CBC Halifax
 http://mohdtv.com:8880/voby5162/39882366/30110
-#EXTINF:-1 tvg-id="ctv.halifax.ca" tvg-name="CA205:Global Halifax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA205GLOBALHALIFAX.png" group-title="CA News",CA205:Global Halifax
+#EXTINF:-1 tvg-id="ctv.halifax.ca" tvg-name="CA205:Global Halifax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA205GLOBALHALIFAX.png" group-title="Canada",CA205:Global Halifax
 http://mohdtv.com:8880/voby5162/39882366/30109
 #EXTINF:-1 tvg-id="" tvg-name="CA206:Global News Winnipeg" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA206HOPETV.png" group-title="CA General",CA206:Global News Winnipeg
 http://mohdtv.com:8880/voby5162/39882366/30108
-#EXTINF:-1 tvg-id="cbc.windsor.on.ca" tvg-name="CA207:CBC Windsor" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA207CBCNOVASCOTIA.png" group-title="CA News",CA207:CBC Windsor
+#EXTINF:-1 tvg-id="cbc.windsor.on.ca" tvg-name="CA207:CBC Windsor" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA207CBCNOVASCOTIA.png" group-title="Canada",CA207:CBC Windsor
 http://mohdtv.com:8880/voby5162/39882366/30107
 #EXTINF:-1 tvg-id="unis.est.ca" tvg-name="CA208:UNIS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA208UNISTV.png" group-title="CA General",CA208:UNIS TV
 http://mohdtv.com:8880/voby5162/39882366/30106
-#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="CA209:Nicktoon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA209NICK.png" group-title="CA Kids",CA209:Nicktoon
+#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="CA209:Nicktoon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA209NICK.png" group-title="Canada",CA209:Nicktoon
 http://mohdtv.com:8880/voby5162/39882366/30105
 #EXTINF:-1 tvg-id="hollywood.suite.70s.ca" tvg-name="CA210:Hollywood Suite 70's" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA210MAVTVCANADA.png" group-title="CA General",CA210:Hollywood Suite 70's
 http://mohdtv.com:8880/voby5162/39882366/30104
-#EXTINF:-1 tvg-id="fx.networks.canada.ca" tvg-name="CA211:FX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA211FXFHD.png" group-title="CA Movies",CA211:FX FHD
+#EXTINF:-1 tvg-id="fx.networks.canada.ca" tvg-name="CA211:FX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA211FXFHD.png" group-title="Canada",CA211:FX FHD
 http://mohdtv.com:8880/voby5162/39882366/30103
-#EXTINF:-1 tvg-id="mediaset.italia.ca" tvg-name="CA212:Rogers TV London" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA212" group-title="CA News",CA212:Rogers TV London
+#EXTINF:-1 tvg-id="mediaset.italia.ca" tvg-name="CA212:Rogers TV London" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA212" group-title="Canada",CA212:Rogers TV London
 http://mohdtv.com:8880/voby5162/39882366/30102
 #EXTINF:-1 tvg-id="21.junior.al" tvg-name="CA213:SALT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA213TRAVELESCAPE.png" group-title="CA General",CA213:SALT
 http://mohdtv.com:8880/voby5162/39882366/30101
-#EXTINF:-1 tvg-id="cbc.calgary.ca" tvg-name="CA214:CBC Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA214CBCCALGARY.png" group-title="CA News",CA214:CBC Calgary
+#EXTINF:-1 tvg-id="cbc.calgary.ca" tvg-name="CA214:CBC Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA214CBCCALGARY.png" group-title="Canada",CA214:CBC Calgary
 http://mohdtv.com:8880/voby5162/39882366/30100
 #EXTINF:-1 tvg-id="city.calgary.ab.ca" tvg-name="CA215:City Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA215CITYCALGARY.png" group-title="CA General",CA215:City Calgary
 http://mohdtv.com:8880/voby5162/39882366/30099
-#EXTINF:-1 tvg-id="ctv.calgary.ca" tvg-name="CA216:CTV Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA216CTVCALGARY.png" group-title="CA News",CA216:CTV Calgary
+#EXTINF:-1 tvg-id="ctv.calgary.ca" tvg-name="CA216:CTV Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA216CTVCALGARY.png" group-title="Canada",CA216:CTV Calgary
 http://mohdtv.com:8880/voby5162/39882366/30098
-#EXTINF:-1 tvg-id="global.calgary.ca" tvg-name="CA217:Global Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA217GLOBALCALGARY.png" group-title="CA News",CA217:Global Calgary
+#EXTINF:-1 tvg-id="global.calgary.ca" tvg-name="CA217:Global Calgary" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA217GLOBALCALGARY.png" group-title="Canada",CA217:Global Calgary
 http://mohdtv.com:8880/voby5162/39882366/30097
-#EXTINF:-1 tvg-id="sportsman.canada.ca" tvg-name="CA218:Global Montreal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA218" group-title="CA News",CA218:Global Montreal
+#EXTINF:-1 tvg-id="sportsman.canada.ca" tvg-name="CA218:Global Montreal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA218" group-title="Canada",CA218:Global Montreal
 http://mohdtv.com:8880/voby5162/39882366/30096
-#EXTINF:-1 tvg-id="super.heart.home.ca" tvg-name="CA219:Super Channel Heart & Home" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA219SUPERCHANNELFUSE.png" group-title="CA Movies",CA219:Super Channel Heart & Home
+#EXTINF:-1 tvg-id="super.heart.home.ca" tvg-name="CA219:Super Channel Heart & Home" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA219SUPERCHANNELFUSE.png" group-title="Canada",CA219:Super Channel Heart & Home
 http://mohdtv.com:8880/voby5162/39882366/30095
 #EXTINF:-1 tvg-id="rds.info.ca" tvg-name="CA220:RDS INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA220SUPERCHANNELHEART&HOME.png" group-title="CA Doc",CA220:RDS INFO
 http://mohdtv.com:8880/voby5162/39882366/30094
 #EXTINF:-1 tvg-id="cbc.winnipeg.mb.ca" tvg-name="CA221:CBC Winnipeg" tvg-logo="" group-title="CA General",CA221:CBC Winnipeg
 http://mohdtv.com:8880/voby5162/39882366/59195
-#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="CA223:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA223" group-title="CA Kids",CA223:Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon.canada.ca" tvg-name="CA223:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA223" group-title="Canada",CA223:Nickelodeon
 http://mohdtv.com:8880/voby5162/39882366/59196
-#EXTINF:-1 tvg-id="noovo.ca" tvg-name="CA222:(FR) NOOVO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA222" group-title="CA News",CA222:(FR) NOOVO
+#EXTINF:-1 tvg-id="noovo.ca" tvg-name="CA222:(FR) NOOVO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA222" group-title="Canada",CA222:(FR) NOOVO
 http://mohdtv.com:8880/voby5162/39882366/59197
 #EXTINF:-1 tvg-id="tva.sports.2.ca" tvg-name="CA224:TVA Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA223TVASports2.png" group-title="CA Sports",CA224:TVA Sports 2
 http://mohdtv.com:8880/voby5162/39882366/65933
