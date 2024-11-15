@@ -3118,7 +3118,7 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="EPL ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASTRO SUPERSPORT 1
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
 
 
@@ -3127,7 +3127,7 @@ http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Astro_ASSP2_%282D%29.png",ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="EPL ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Astro_ASSP2_%282D%29.png",ASTRO SUPERSPORT 2
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
 
 
@@ -3136,7 +3136,7 @@ http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="EPL ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASTRO SUPERSPORT 3
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 
 
@@ -3145,7 +3145,7 @@ http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="EPL ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ASTRO SUPERSPORT 4
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 ====================paramount===========================
 
