@@ -1004,23 +1004,15 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1722
+http://15.235.144.67:35461/654321/123456/11243
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1721
+http://15.235.144.67:35461/654321/123456/971
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
+http://51.79.248.110:888/Lyana/Lyana/13461
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
-
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" tvg-id="817.astro",Astro Sports Plus
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71146.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png" group-title="Sports", Astro Badminton
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
-
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="
 
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png",TNT 1
