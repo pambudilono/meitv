@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
+s#EXTM3U url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"tvg-shift=0 m3uautoload=0
@@ -1021,17 +1021,6 @@ http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71146.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png" group-title="Sports", Astro Badminton
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
 
-#EXTINF:-1  Sports tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_70X40.png", group-title="beINSport MY" beINSports 1 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37432
-
-#EXTINF:-1  Sports tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_70X40.png", group-title="beINSport MY" beINSports 2 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48099
-
-#EXTINF:-1  Sports tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_70X40.png", group-title="beINSport MY" beIN Sports 3 (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
-
-#EXTINF:-1  Sports tvg-logo="https://i.ibb.co.com/tX64NXy/PREMIER-SPORT.png", group-title="beINSport MY" PRemier Sports (MY) 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/48106
 
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png",TNT 1
