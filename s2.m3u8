@@ -18734,4 +18734,39 @@ https://hls2.dewanonton.online/vultr/yPALSHkaNQXht/hls-stream.m3u8
 #https://stream.hownetwork.xyz/xxx/fast-furious-2001-bluray/6/480.m3u8
 https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/index.m3u8
 
+#EXTM3U
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBiSUXjULWkg9ugs9mSztJg9uuUd3g9QCgHjl1ttF2kgi9CollR2tN6aXMczPlMl_0To&usqp=CAU" tvg-name="Playboy (+18) | HD"  group-title="+18",Playboy (+18) | HD
+https://edge3.prepro.cvattv.com.ar/live/vod/Playboy/SA_Live_WebVTT_FTA/Playboy.m3u8
 
+#EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Old_Canal_Venus_logo.svg/2560px-Old_Canal_Venus_logo.svg.png" tvg-name="VENUS - USA (+18) | HD"  group-title="+18",VENUS - USA (+18) | HD
+https://edge4-sl.cvattv.com.ar/live/c6eds/Venus/SA_SAGEMCOM/Venus.m3u8
+
+#EXTINF:0, tvg-logo="https://i.postimg.cc/NGKPwybC/A3-BIKINI-MODIFICADA.png" tvg-name="A3BIKINI - USA (+18) | HD"  group-title="+18",A3BIKINI - USA (+18) | HD
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos POV (+18) | HD"  group-title="+18",TV Adultos POV (+18) | HD
+http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Teens (+18) | HD"  group-title="+18",TV Adultos Teens (+18) | HD
+http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos GangBang (+18) | HD"  group-title="+18",TV Adultos GangBang (+18) | HD
+http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Brunette (+18) | HD"  group-title="+18",TV Adultos Brunette (+18) | HD
+http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Blonde (+18) | HD"  group-title="+18",TV Adultos Blonde (+18) | HD
+http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Live Cams (+18) | HD"  group-title="+18",TV Adultos Live Cams (+18) | HD
+http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Latina (+18) | HD"  group-title="+18",TV Adultos Latina (+18) | HD
+http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos MILF (+18) | HD"  group-title="+18",TV Adultos MILF (+18) | HD
+http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+
+#EXTINF:0, tvg-logo=" tvg-name="TV Adultos Pornstars (+18) | HD"  group-title="+18",TV Adultos Pornstars (+18) | HD
+http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
